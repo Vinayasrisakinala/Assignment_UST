@@ -8,3 +8,4 @@ This line added for master branch
 
 This line added for master branch "this is line added for feature branch"
 
+new line
